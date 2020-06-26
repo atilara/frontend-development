@@ -1,0 +1,6 @@
+[submodule "intro-component-with-signup-form"]
+	path = intro-component-with-signup-form
+	url = https://github.com/atilara/intro-component-with-signup-form
+[submodule "single-price-grid-component"]
+	path = single-price-grid-component
+	url = https://github.com/atilara/single-price-grid-component
