@@ -4,3 +4,6 @@
 [submodule "single-price-grid-component"]
 	path = single-price-grid-component
 	url = https://github.com/atilara/single-price-grid-component
+[submodule "fylo-landing-page-with-two-column-layout"]
+	path = fylo-landing-page-with-two-column-layout
+	url = https://github.com/atilara/fylo-landing-page-with-two-column-layout
