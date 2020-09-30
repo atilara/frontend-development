@@ -7,3 +7,6 @@
 [submodule "fylo-landing-page-with-two-column-layout"]
 	path = fylo-landing-page-with-two-column-layout
 	url = https://github.com/atilara/fylo-landing-page-with-two-column-layout
+[submodule "huddle-landing-page-with-alternating-feature-blocks"]
+	path = huddle-landing-page-with-alternating-feature-blocks
+	url = https://github.com/atilara/huddle-landing-page-with-alternating-feature-blocks
